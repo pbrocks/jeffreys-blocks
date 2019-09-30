@@ -5,7 +5,7 @@ const { __ } = wp.i18n;
 const { registerBlockType } = wp.blocks;
 const { InnerBlocks } = wp.blockEditor;
 
-registerBlockType( 'custom-block/container', {
+registerBlockType( 'jeffreys-blocks/container', {
 	title: __( 'Custom Container' ),
 
 	description: __( 'Provide custom container.' ),
