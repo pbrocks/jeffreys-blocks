@@ -2,8 +2,8 @@
 /**
  * Plugin Name: Jeffreys Blocks
  * Plugin URI: https://github.com/phpbits/my-custom-block
- * Description: Custom Gutenberg block for tutorial purposes
- * Version: 1.0
+ * Description: Jeffrey's Custom Block for tutorial purposes
+ * Version: 0.1.2
  * Author: Jeffrey Carandang
  * Author URI: https://jeffreycarandang.com/
  *

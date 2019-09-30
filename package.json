@@ -1,7 +1,7 @@
 {
-  "name": "my-custom-block",
-  "version": "1.0.0",
-  "description": "Custom Block for tutorial purposes",
+  "name": "jeffreys-blocks",
+  "version": "0.1.2",
+  "description": "Jeffrey's Custom Block for tutorial purposes",
   "main": "index.js",
   "scripts": {
     "build": "wp-scripts build",
@@ -17,21 +17,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phpbits/my-custom-block.git"
+    "url": "git+https://github.com/pbrocks/jeffreys-blocks.git"
   },
   "keywords": [
     "custom",
     "gutenberg",
     "block"
   ],
-  "author": "phpbits",
+  "author": "pbrocks",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phpbits/my-custom-block/issues"
+    "url": "https://github.com/pbrocks/jeffreys-blocks/issues"
   },
-  "homepage": "https://github.com/phpbits/my-custom-block#readme",
+  "homepage": "https://github.com/pbrocks/jeffreys-blocks#readme",
   "devDependencies": {
-    "@wordpress/scripts": "^3.4.0",
+    "@wordpress/scripts": "^5.0.1",
     "css-loader": "^3.1.0",
     "ignore-emit-webpack-plugin": "^2.0.2",
     "mini-css-extract-plugin": "^0.8.0",
